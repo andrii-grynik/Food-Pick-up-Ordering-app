@@ -37,17 +37,15 @@
 # Project description
 
 Following project is a Food Pick-up Ordering app, which will have following functionality:
-"A food ordering experience for a single restaurant. Hungry clients of this fictitious restaurant can visit its website, select one or more dishes and place an order for pick-up. They will receive a notification when their order is ready.
+"A food ordering experience for a restaurant. Hungry clients of this fictitious restaurant can visit its website, select one or more dishes and place an order for pick-up. They will receive a message notification when their order is placed and when it is ready.
 
-The restaurant and client both need to be notified since this app serves as an intermediary.
 
 When an order is placed the restaurant receives the order via SMS. The restaurant sends an sms with order and estimated time it will take to fulfill the order to customer.
 
 We have used Twilio(https://www.twilio.com/) to implement SMS communication."
 
-We emplemented dynamic style to webside with a SQL database for menu Items. We also added social media links for people to see reviews and follow their favority restaurant and possiblty explore their circle of friends with people who share same food taste. There is also a link on our website to this repository.
+We emplemented dynamic style to webside with a PostgreSQL database for menu Items. We also added social media links for people to see reviews and follow their favority restaurant and possiblty explore their circle of friends with people who share same food taste. There is also a link on our website to this repository.
 
-This repository includes a large skeleton for various implementations. We mainly utilized db, public, styles, and views folders, server.js is the main file we used on the root. 
 
 # Project pictures
 ![front](https://user-images.githubusercontent.com/95922075/219702165-14d3a9c7-84c5-46e3-9e17-bdb6ea8a2f51.jpg)
